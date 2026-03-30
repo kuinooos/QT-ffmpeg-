@@ -1,0 +1,14 @@
+-rootPath
+D:/ffmpegPlayer/GUI
+-cmake-output
+-output-file
+D:/ffmpegPlayer/GUI/build/.qt_plugins/Qt6_QmlPlugins_Imports_app_ffmpeg_player_gui.cmake
+-importPath
+D:/ffmpegPlayer/GUI/build/PlayerGui
+-importPath
+D:/ffmpegPlayer/GUI/build
+-importPath
+D:/Qt6.5.3/6.5.3/mingw_64/./qml
+-qrcFiles
+D:/ffmpegPlayer/GUI/build/.rcc/qmake_PlayerGui.qrc
+D:/ffmpegPlayer/GUI/build/.rcc/app_ffmpeg_player_gui_raw_qml_0.qrc

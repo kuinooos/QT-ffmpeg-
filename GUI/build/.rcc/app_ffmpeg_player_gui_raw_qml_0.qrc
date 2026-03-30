@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/PlayerGui/">
+    <file alias="qml/Main.qml">D:/ffmpegPlayer/GUI/qml/Main.qml</file>
+    <file alias="qml/components/GlassCard.qml">D:/ffmpegPlayer/GUI/qml/components/GlassCard.qml</file>
+    <file alias="qml/components/ControlButton.qml">D:/ffmpegPlayer/GUI/qml/components/ControlButton.qml</file>
+    <file alias="qml/components/TimelineSlider.qml">D:/ffmpegPlayer/GUI/qml/components/TimelineSlider.qml</file>
+  </qresource>
+</RCC>
+

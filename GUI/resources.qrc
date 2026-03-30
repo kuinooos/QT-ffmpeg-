@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/components/GlassCard.qml</file>
+        <file>qml/components/ControlButton.qml</file>
+        <file>qml/components/TimelineSlider.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,8 @@
+module PlayerGui
+typeinfo app_ffmpeg_player_gui.qmltypes
+prefer :/qt/qml/PlayerGui/
+Main 1.0 qml/Main.qml
+GlassCard 1.0 qml/components/GlassCard.qml
+ControlButton 1.0 qml/components/ControlButton.qml
+TimelineSlider 1.0 qml/components/TimelineSlider.qml
+

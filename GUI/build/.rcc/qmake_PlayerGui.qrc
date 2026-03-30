@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PlayerGui">
+    <file alias="qmldir">D:/ffmpegPlayer/GUI/build/PlayerGui/qmldir</file>
+  </qresource>
+</RCC>
+

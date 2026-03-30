@@ -1,0 +1,3 @@
+D:\vcpkg\downloads\tools\cmake-3.31.10-windows\cmake-3.31.10-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\app_ffmpeg_player_gui.dir/objects.a
+D:\Qt6.5.3\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\app_ffmpeg_player_gui.dir/objects.a @CMakeFiles\app_ffmpeg_player_gui.dir\objects1.rsp
+D:\Qt6.5.3\Tools\mingw1120_64\bin\g++.exe -mwindows -Wl,--whole-archive CMakeFiles\app_ffmpeg_player_gui.dir/objects.a -Wl,--no-whole-archive -o app_ffmpeg_player_gui.exe -Wl,--out-implib,libapp_ffmpeg_player_gui.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\app_ffmpeg_player_gui.dir\linkLibs.rsp
